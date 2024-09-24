@@ -3,11 +3,8 @@ Speech-to-Speech Recognition Chatbot with Customer Virtual Assistant for mlsc ha
 Author:
 
 Shreenand Pandere
-
 Modh. Aaquil Kudai
-
 Manas Chaubal
-
 Vinayak Deore
 
 Team Name: Byteman
